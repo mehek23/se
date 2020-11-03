@@ -1,1 +1,1 @@
-hi my name is mehek
+print("hi my name is mehek")
